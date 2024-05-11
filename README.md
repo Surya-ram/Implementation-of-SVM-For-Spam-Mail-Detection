@@ -33,9 +33,9 @@ Step 9. Close the Program.
 
 Program to implement the SVM For Spam Mail Detection.
 
-#### Developed by:SINGARAVETRIVEL S
+#### Developed by: SURYA.R
 
-#### RegisterNumber: 212222220048
+#### RegisterNumber: 212222220167
 
 ```python
 #import packages
